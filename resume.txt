@@ -1,3 +1,4 @@
 Hello class
 This is git intro
 line 3
+line 4
